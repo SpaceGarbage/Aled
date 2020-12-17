@@ -1,10 +1,10 @@
 # Encore un pong
 
-https://davidmarsprof.github.io/pong-wimbledon/
+https://spacegarbage.github.io/Aled/
 
 Pour jouer...
 
-### Rafael
+### Un chat
 touches A / Q 
-### Roger
+### Un autre chat...
 touches P / M 
